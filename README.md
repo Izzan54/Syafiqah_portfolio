@@ -7,4 +7,7 @@ Data analysis tasks from an internship or online courses.
 * I managed data of COVID-19 during my internship and the daily cases data is from the official Facebook of the Ministry of Health Malaysia. The data from 26/01/2020 until 11/07/2021.
 * I presented manual steps to find the parameters of the ARIMA model which are the order of Autoregression model (p), integration (d), and Moving Average (q) model, and used auto.arima() function to find the best model.
 
-# Project 2 : Loan Project
+# [Project 2: Loan Project](https://github.com/Izzan54/Loan-Analysis)
+* This is a task for classification and clustering. I I had to give insight and built classification and clustering models.
+*  For the loan analysis task, I was given three different datasets which were loan_csv, clarity_underwriting_variables.csv, and payment_csv.
+*  I did a K-mean for clustering. In classification, I created two models which were K-Nearest Neighbor and Decision Tree.
