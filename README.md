@@ -1,6 +1,6 @@
 # Syafiqah_portfolio
 Data Analytics Portfolio  
-Data analysis tasks from an internship or online courses and portfolio project
+Data analysis tasks from an internship or online courses.
 
 # [Project 1: Forecasting Malaysia's COVID-19 Daily Cases Using ARIMA Model](https://github.com/Izzan54/ARIMA-model/blob/main/README.md)
 * This is one of my tasks as a research assistant. I had to forecast Malaysia's daily cases of COVID-19 in Malaysia using Python
