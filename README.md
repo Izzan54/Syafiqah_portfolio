@@ -11,3 +11,7 @@ Data analysis tasks from an internship or online courses.
 * This is a task for classification and clustering. I I had to give insight and built classification and clustering models.
 *  For the loan analysis task, I was given three different datasets which were loan_csv, clarity_underwriting_variables.csv, and payment_csv.
 *  I did a K-mean for clustering. In classification, I created two models which were K-Nearest Neighbor and Decision Tree.
+
+# [Project 2: Medical Insurance Cost (Linear, Ridge, Polynomial Regression & Random Forest)](https://github.com/Izzan54/Medical_Insurance-Regression/blob/main/README.md)
+* I had to predict the charge of medical insurance based on 6 variables (age, sex, BMI, number of children, smoker, regions)
+* I used three regression models to predict the insurance cost and compared their accuracy.
