@@ -1,5 +1,4 @@
-# Syafiqah_portfolio
-Data Analytics Portfolio  
+# Syafiqah_portfolio  
 
 
 # [Project 1: Forecasting Malaysia's COVID-19 Daily Cases Using ARIMA Model](https://github.com/Izzan54/ARIMA-model)
@@ -15,3 +14,9 @@ Data Analytics Portfolio
 # [Project 3: Medical Insurance Cost (Linear, Ridge, Polynomial Regression & Random Forest)](https://github.com/Izzan54/Medical_Insurance-Regression)
 * I had to predict the charge of medical insurance based on 6 variables (age, sex, BMI, number of children, smoker, regions)
 * I used three regression models to predict the insurance cost and compared their accuracy.
+
+
+# [Project 4: Developer's Readiness Challenge (Commodity Virtual Trading Platform)](https://github.com/Izzan54/comd5.git)
+* Final project of Besquare Program. A group must create real time platform. 
+* COMD5 is a virtual platform to trade and analyze commodities. We added features to buy, sell, top up and withdraw. 
+* We used deriv API for commodities API(https://api.deriv.com/api-explorer/) 
